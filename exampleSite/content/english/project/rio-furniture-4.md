@@ -5,8 +5,8 @@ image: images/portfolio/work4.jpg
 bg_image: images/featue-bg.jpg
 category: UI/UX Design
 information:
-- label: Client
-  info: Jannie Kelonsky
+- label: Producer
+  info: Philipp Gmelin
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
