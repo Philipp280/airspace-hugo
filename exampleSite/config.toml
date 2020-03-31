@@ -1,5 +1,5 @@
 baseURL = "https://phil280gme.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr", "de"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
