@@ -1,6 +1,6 @@
 ---
 title: Rio Furniture Cak 1
-description: this is meta description
+description: this is Cake280 description
 image: images/portfolio/work4.jpg
 bg_image: images/featue-bg.jpg
 category: UI/UX Design
