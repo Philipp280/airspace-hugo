@@ -36,7 +36,10 @@ service:
   enable: true
   service_item: []
   title: Aktuelles
-  description: Cake280
+  description: |-
+    Flugzeugbaustudium an der HAW Hamburg.
+    Haus-Dach Reparaturen in Gnevezin.
+    Haus entkernen in Norderstedt.
 cta:
   enable: true
   bg_image: "/images/dsc00878-01-01.jpeg"
@@ -48,11 +51,13 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Aktuelles
+  title: Fragen?
   description: |-
-    Flugzeugbaustudium an der HAW Hamburg.
-    Haus-Dach Reparaturen in Gnevezin.
-    Haus entkernen in Norderstedt.
+    Kontakt:
+
+    Philipp Gmelin
+    Tel: +4915259226875
+    philippgmelin@yahoo.de
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
