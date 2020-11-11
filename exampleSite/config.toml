@@ -16,8 +16,8 @@ weight = 1
 contentDir = "content/german"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Home"
-languageCode = "de-de"
-languageName = "De"
+languageCode = "en-us"
+languageName = "EN"
 weight = "2"
 [[menu.footer]]
 URL = "about"
