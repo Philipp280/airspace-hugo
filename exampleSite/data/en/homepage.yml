@@ -11,16 +11,15 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: About Me
+  description: ''
+  content: "I am a person interested in technology, which is why I always set myself
+    new goals, which I then work on in projects.\nI find design, no matter where,
+    important and prefer a clear line.\nPhotography is a window to things that otherwise
+    remain hidden. Through the use and combination of technical components, photography
+    gains unprecedented possibilities, especially when it comes to aerial photography.
+    \nI offer photos and films from the air. The material can also be purchased processed,
+    up to the finished advertising film."
   image: images/wrapper-img.png
 portfolio:
   enable: true
