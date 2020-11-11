@@ -22,7 +22,7 @@ about:
   image: "/images/wechat-image_20201111131237.jpg"
 portfolio:
   enable: true
-  bg_image: images/featue-bg.jpg
+  bg_image: "/images/dsc00878-01-01.jpeg"
   title: Projekte
   content: 'Entdecke interessante Projekte die dich antreiben und bei deinen Projekten
     unterstützen.
