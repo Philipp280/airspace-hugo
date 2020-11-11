@@ -63,33 +63,27 @@ funfacts:
     Philipp Gmelin  |  +4915259226875  |  philippgmelin@yahoo.de
   funfact_item:
   - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+    name: Cake1
+    count: "1"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Cake2
+    count: "2"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
+    name: Gepitchte Projekte
     count: "125"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: Cake3
+    count: "3"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    content: Oh Yes Philipp
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    content: Go4It Philipp
   - name: Rose Rio
     image: images/clients/avater-3.jpg
     designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    content: Yes Philipp, WhatsCracking?
