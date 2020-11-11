@@ -8,7 +8,7 @@ bg_image: images/featue-bg.jpg
 ---
 ### Willkommen!
 
-Wie heißt di eig wirklich?
+Wie heißt du eigentlich wirklich?
 
 Mein echter Name ist Lorem de la ipsum Caprisonne
 
