@@ -19,7 +19,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Behance Website Redesign
+## Behance Cake Website Redesign
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
