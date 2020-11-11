@@ -35,11 +35,15 @@ service:
   enable: true
   title: Aktuelles
   description: |-
-    HAW Hamburg - Flugzeugbau studieren
+    HAW Hamburg - Flugzeugbau Studium
 
-    Haus-Dach reparieren
+    Chinesisch A1-2 lernen
 
-    Haus entkernen Norderstedt
+    Schweißfachingenieur Ausbildungsstart 2021
+
+    Haus-Dach reparieren in Gnevezin
+
+    Haus entkernen in Norderstedt
   service_item: []
 cta:
   enable: true
