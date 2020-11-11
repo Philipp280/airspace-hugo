@@ -36,7 +36,9 @@ service:
   title: Aktuelles
   description: |-
     HAW Hamburg - Flugzeugbau studieren
+
     Haus-Dach reparieren
+
     Haus entkernen Norderstedt
   service_item: []
 cta:
