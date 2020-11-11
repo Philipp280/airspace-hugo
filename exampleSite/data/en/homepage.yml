@@ -49,9 +49,9 @@ funfacts:
   enable: true
   title: Aktuelles
   description: |-
-    Flugzeugbaustudium an der HAW Hamburg
-    Haus-Dach Reparaturen in Gnevezin
-    Haus entkernen in Norderstedt
+    Flugzeugbaustudium an der HAW Hamburg.
+    Haus-Dach Reparaturen in Gnevezin.
+    Haus entkernen in Norderstedt.
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
