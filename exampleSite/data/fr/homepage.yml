@@ -12,14 +12,14 @@ banner:
 about:
   enable: true
   title: Über mich
-  description: "2017"
+  description: ''
   content: "Ich bin ein technikinteressierter Mensch, weshalb ich mir immer wieder
-    neue Ziele setze, die ich dann in Projekten erarbeite.\n\nIch finde Design, egal
-    wo, wichtig und bevorzuge die klare Linie.\n\nFotografie ist ein Fenster zu Dingen,
+    neue Ziele setze, die ich dann in Projekten erarbeite.\nIch finde Design, egal
+    wo, wichtig und bevorzuge die klare Linie.\nFotografie ist ein Fenster zu Dingen,
     die einem sonst verborgen bleiben. Durch den Einsatz und die Kombination von technischen
     Bauteilen gewinnt die Fotografie nie da gewesene Möglichkeiten, besonders im Hinblick
-    auf Luftaufnahmen. \n\nIch biete Fotos und Filme aus der Luft an. Das Material
-    kann auch bearbeitet erworben werden, bis hin zum fertigen Werbefilm."
+    auf Luftaufnahmen. \nIch biete Fotos und Filme aus der Luft an. Das Material kann
+    auch bearbeitet erworben werden, bis hin zum fertigen Werbefilm."
   image: images/wrapper-img.png
 portfolio:
   enable: true
