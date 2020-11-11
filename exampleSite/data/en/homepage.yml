@@ -24,11 +24,13 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: Projekte
-  content: Entdecke interessante Projekte die dich antreiben und bei deinen Projekten
-    unterstützen
+  content: 'Entdecke interessante Projekte die dich antreiben und bei deinen Projekten
+    unterstützen.
+
+'
   button:
     enable: true
-    label: View Works
+    label: Let's Go
     link: project
 service:
   enable: true
