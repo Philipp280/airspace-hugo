@@ -34,7 +34,10 @@ portfolio:
     link: project
 service:
   enable: true
-  service_item: []
+  service_item:
+  - icon: ''
+    name: ''
+    content: ''
   title: Aktuelles
   description: |-
     Flugzeugbaustudium an der HAW Hamburg.
