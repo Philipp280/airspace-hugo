@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/dsc00906-01.jpeg"
   title: See You Up In The Sky
   content: AERONATICAL ENGINEERING
   button:
