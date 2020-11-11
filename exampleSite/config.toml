@@ -49,31 +49,28 @@ name = "Aktuelles"
 weight = 1
 [[menu.main]]
 URL = "project"
-name = "Project"
+name = "Projekt"
 weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Leben"
+weight = 4
 [[menu.main]]
 URL = "service"
 name = "Service"
 weight = 3
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
+URL = "filmundfoto"
 hasChildren = true
-name = "Pages"
+name = "Film & Foto"
 weight = 5
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 6
 [params]
 author = "Themefisher"
