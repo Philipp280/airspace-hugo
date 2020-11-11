@@ -11,15 +11,15 @@ banner:
     link: project
 about:
   enable: true
-  title: Über mich
+  title: About Me
   description: ''
-  content: "Ich bin ein technikinteressierter Mensch, weshalb ich mir immer wieder
-    neue Ziele setze, die ich dann in Projekten erarbeite.\nIch finde Design, egal
-    wo, wichtig und bevorzuge die klare Linie.\nFotografie ist ein Fenster zu Dingen,
-    die einem sonst verborgen bleiben. Durch den Einsatz und die Kombination von technischen
-    Bauteilen gewinnt die Fotografie nie da gewesene Möglichkeiten, besonders im Hinblick
-    auf Luftaufnahmen. \nIch biete Fotos und Filme aus der Luft an. Das Material kann
-    auch bearbeitet erworben werden, bis hin zum fertigen Werbefilm."
+  content: "I am a person interested in technology, which is why I always set myself
+    new goals, which I then work on in projects.\nI find design, no matter where,
+    important and prefer a clear line.\nPhotography is a window to things that otherwise
+    remain hidden. Through the use and combination of technical components, photography
+    gains unprecedented possibilities, especially when it comes to aerial photography.
+    \nI offer photos and films from the air. The material can also be purchased processed,
+    up to the finished advertising film."
   image: images/wrapper-img.png
 portfolio:
   enable: true
