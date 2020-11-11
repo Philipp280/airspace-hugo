@@ -6,7 +6,7 @@ banner:
   content: AERONATICAL ENGINEERING
   button:
     enable: true
-    label: Arbeit
+    label: Aktuelles
     link: project
 about:
   enable: true
