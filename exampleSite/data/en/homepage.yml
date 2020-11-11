@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: SeeYouUpInTheSky
+  title: See You Up In The Sky
   content: AERONATICAL ENGINEERING
   button:
     enable: true
@@ -45,10 +45,11 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Aktuelles
+  description: |-
+    Flugzeugbaustudium an der HAW Hamburg
+    Haus-Dach Reparaturen in Gnevezin
+    Haus entkernen in Norderstedt
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
