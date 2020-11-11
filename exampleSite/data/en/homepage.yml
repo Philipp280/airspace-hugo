@@ -36,8 +36,8 @@ service:
   enable: true
   service_item:
   - icon: ''
-    name: ''
-    content: ''
+    name: Cake1
+    content: Cake2
   title: Aktuelles
   description: |-
     Flugzeugbaustudium an der HAW Hamburg.
