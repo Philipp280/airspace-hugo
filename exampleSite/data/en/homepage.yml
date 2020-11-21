@@ -21,6 +21,10 @@ about:
     auch bearbeitet erworben werden, bis hin zum fertigen Werbefilm.\n\nMoin Carlos
     [Cake](https://bruxo.solutions), wie gehts?"
   image: "/images/fliegenflexen.jpg"
+  funfacts:
+  - icon: ''
+    name: ''
+    count: ''
 portfolio:
   enable: true
   bg_image: "/images/img_20190605_171726.jpg"
